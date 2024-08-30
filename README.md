@@ -1,3 +1,4 @@
+![](https://github.com/ajmatkhan0/ajmatkhan0/blob/main/NEW%20REPO.png)
 <h1 align="center">Hi 👋, I'm Ajmat Asif Khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
