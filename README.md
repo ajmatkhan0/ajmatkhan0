@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Online Student Feedback System**
 
-- 🌱 I’m currently learning **3rd Year of BscIT**
+- 🌱 I’m  **Graduated in BscIT from Thakur college of science and commerece**
 
 - 📫 How to reach me **khanajmat4245@gmail.com**
 
